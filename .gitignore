@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+.mongodb-binaries/
+mongodb-memory-server/
+.vscode/
+.env
+*.log
+npm-debug.log*
+.DS_Store
